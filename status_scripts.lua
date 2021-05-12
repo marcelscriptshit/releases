@@ -1,7 +1,7 @@
 local status = {
   ["Jailbreak"] = {
-    Maintenence = false,
-    Message = false,
+    Maintenence = trye,
+    Message = "fixing stuff",
   },
 }
 
