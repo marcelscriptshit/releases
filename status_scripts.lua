@@ -3,6 +3,10 @@ local status = {
     Maintenence = false,
     Message = "fixing stuff",
   },
+  ["TowerOfHell"] = {
+    Maintenence = false,
+    Message = "fixing stuff",
+  },
 }
 
 
