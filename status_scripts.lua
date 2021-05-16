@@ -7,6 +7,14 @@ local status = {
     Maintenence = false,
     Message = "fixing stuff",
   },
+  ["BadBusiness"] = {
+    Maintenence = false,
+    Message = "fixing stuff",
+  },
+  ["Quarry"] = {
+    Maintenence = false,
+    Message = "fixing stuff",
+  },
 }
 
 
